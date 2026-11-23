@@ -1,0 +1,5 @@
+FormulaBench F1-B02 freeze record
+sha256: a8626a0ceab6ca565fa204c9a09707a6bc154b4a0a09fb427732cc98ef03c2b9
+This is the only freeze record for this batch unless a later line in this file names it superseded and says why.
+beacon: NIST Randomness Beacon 2.0, chain 2, pulse at 2026-11-23T23:00Z
+The record commits the sealed templates, the draw, the prompt, the runners, the scorer and the checker, and is published with the results.
